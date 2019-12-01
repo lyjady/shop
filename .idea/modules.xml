@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/springboot-dubbo-consumer/springboot-dubbo-consumer.iml" filepath="$PROJECT_DIR$/springboot-dubbo-consumer/springboot-dubbo-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-dubbo-intefaces/springboot-dubbo-intefaces.iml" filepath="$PROJECT_DIR$/springboot-dubbo-intefaces/springboot-dubbo-intefaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-dubbo-provider/springboot-dubbo-provider.iml" filepath="$PROJECT_DIR$/springboot-dubbo-provider/springboot-dubbo-provider.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-rocketmq-consumer/springboot-rocketmq-consumer.iml" filepath="$PROJECT_DIR$/springboot-rocketmq-consumer/springboot-rocketmq-consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-rocketmq-producer/springboot-rocketmq-producer.iml" filepath="$PROJECT_DIR$/springboot-rocketmq-producer/springboot-rocketmq-producer.iml" />
     </modules>

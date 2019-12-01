@@ -5,6 +5,9 @@
       <list>
         <option value="$PROJECT_DIR$/springboot-rocketmq-producer/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-rocketmq-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-dubbo-intefaces/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-dubbo-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-dubbo-consumer/pom.xml" />
       </list>
     </option>
   </component>
